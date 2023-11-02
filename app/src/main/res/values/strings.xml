@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practice17</string>
+    <string name="about">О программе\n
+    Эта программа может менять тему с помощью пункта в меню</string>
+</resources>
